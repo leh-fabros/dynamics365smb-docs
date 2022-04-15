@@ -45,7 +45,7 @@ When you register a new item, you can choose the base unit of measure from the l
 2. Open the card of the item for which you want to set up alternate units of measure.
 3. Choose the **Units of Measure** action. The **Item Units of Measure** page opens.
 4. If the **Base Unit of Measure** field on the item card is filled, then that unit of measure is already set up.
-5. Choose the **New** action. A new empty line is inserted.
+5. Choose the **Related** Menu then **Item** and select the **Unit of Measure** from the dropdown list.
 6. In the **Code** field, enter the name of the unit of measure. Alternatively, choose the field to select from the unit of measure codes that are in the database.
 7. In the **Qty. per Unit of Measure** field, enter how many units of the base unit of measure the new unit of measure contains.
 8. Optionally, in the **Height**, **Width**, **Length**, and **Weight** fields, specify precise information about the size of one unit of measure so that the [!INCLUDE [prod_short](includes/prod_short.md)] can calculate how many of each item unit can be placed in any given bin. The **Cubage** field is calculated automatically based on **Height**, **Width**, and **Length**.
